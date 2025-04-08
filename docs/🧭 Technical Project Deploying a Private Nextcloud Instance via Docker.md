@@ -8,17 +8,17 @@
 
 ### 📑 Table of Contents
 
-1. [🎯 Introduction](#1-introduction)  
-2. [🖥️ System and Environment](#2-system-and-environment)  
-3. [📦 External Disk Mount](#3-disk-mount)  
-4. [🐳 Docker and Compose Installation](#4-docker-and-compose-installation)  
-5. [🛠️ Container Configuration](#5-container-configuration)  
-6. [🛡️ Safe Startup (Disk Protection)](#6-safe-startup-disk-check)  
-7. [⚙️ Automation (systemd)](#7-automation-systemd)  
-8. [🌐 Subdomain and SSL Setup](#8-subdomain-and-ssl-setup)  
-9. [💻 Nextcloud Desktop and Sync](#9-nextcloud-desktop-and-sync)  
-10. [🧹 Cleanup and Optimization](#10-cleanup-and-optimization)  
-11. [✅ Testing, Reboot, Production](#11-testing-reboot-production)
+1. 🎯 Introduction  
+2. 🖥️ System and Environment  
+3. 📦 External Disk Mount  
+4. 🐳 Docker and Compose Installation  
+5. 🛠️ Container Configuration  
+6. 🛡️ Safe Startup (Disk Protection)  
+7. ⚙️ Automation (systemd)  
+8. 🌐 Subdomain and SSL Setup  
+9. 💻 Nextcloud Desktop and Sync  
+10. 🧹 Cleanup and Optimization  
+11. ✅ Testing, Reboot, Production
 
 ------
 
