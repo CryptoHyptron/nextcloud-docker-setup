@@ -1,0 +1,13 @@
+[Unit]
+Description=Nextcloud Docker Starter
+After=network-online.target
+
+[Service]
+Type=simple
+User=hyptronic
+ExecStart=/home/hyptronic/nextcloud-docker/start-nextcloud.sh
+WorkingDirectory=/home/hyptronic/nextcloud-docker
+Restart=on-failure
+
+[Install]
+WantedBy=multi-user.target
